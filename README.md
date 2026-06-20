@@ -1,5 +1,7 @@
 # Structure-based retention time prediction for fentanyl analogs
 
+[![DOI](https://zenodo.org/badge/1275205749.svg)](https://doi.org/10.5281/zenodo.20774487)
+
 Reproducible code, data, and trained models for structure-based LC-MS/MS retention time prediction of fentanyl analogs, using Mordred descriptors across five regression algorithms (Ridge, RF, XGBoost, GP-RBF, MLP). The models were developed using RT data acquired with serially coupled cyano and phenyl-hexyl columns.
 
 ## Overview
