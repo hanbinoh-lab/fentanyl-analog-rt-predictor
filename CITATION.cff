@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Structure-based retention time predictor for fentanyl analogs under cyano and phenyl-hexyl serially coupled column LC-MS/MS"
+authors:
+  - family-names: Jang
+    given-names: Hwa-Yong
+  - family-names: Choi
+    given-names: Eunwoo
+  - family-names: Choi
+    given-names: Sunghee
+  - family-names: Kim
+    given-names: Nakyung
+  - family-names: Oh
+    given-names: Han Bin
+version: 1.0.0
+url: "https://github.com/hanbinoh-lab/fentanyl-analog-rt-predictor"
