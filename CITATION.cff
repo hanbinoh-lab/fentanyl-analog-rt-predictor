@@ -13,4 +13,5 @@ authors:
   - family-names: Oh
     given-names: Han Bin
 version: 1.0.0
+doi: 10.5281/zenodo.20774487
 url: "https://github.com/hanbinoh-lab/fentanyl-analog-rt-predictor"
