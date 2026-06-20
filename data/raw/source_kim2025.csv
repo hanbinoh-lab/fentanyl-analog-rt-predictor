@@ -1,0 +1,95 @@
+compound,precursor_mz,quant_ion_mz,qual_ion_1_mz,qual_ion_2_mz,retention_time_min
+Benzylfentanyl,323.3,91.0,65.0,174.0,12.4
+Fentanyl propyl analog,351.3,98.0,202.0,55.0,19.1
+α-Methylfentanyl,351.3,91.0,202.0,119.0,16.1
+Thiofentanyl,343.3,111.0,194.0,84.0,12.4
+α-Methylthiofentanyl,357.3,97.0,125.0,84.1,14.3
+2-Fluorofentanyl/ortho-Fluorofentanyl,355.3,188.2,105.2,79.1,15.9
+3ʹ-Fluorofentanyl,355.3,188.0,105.0,77.0,15.2
+4-Methoxyfentanyl,367.3,188.0,105.0,246.3,16.9
+para-Fluorofentanyl,355.3,188.2,105.0,76.9,14.8
+Hydrocinnamoylfentanyl/3-Phenylpropanylfentanyl,413.1,188.0,131.9,292.0,25.2
+Acetylfentanyl,323.3,105.0,188.0,77.0,9.8
+Acrylfentanyl,335.3,105.0,188.0,77.0,13.5
+Cyclopropylfentanyl,349.4,188.0,105.0,77.1,17.6
+Benzoylfentanyl,385.3,188.0,105.0,76.9,21.3
+Butyrfentanyl,351.4,105.0,188.0,79.0,19.1
+2-Thiofuranylfentanyl,391.3,188.2,105.1,78.9,22.6
+Furanylfentanyl,375.3,188.0,105.0,77.0,16.8
+Cyclohexylfentanyl,391.3,83.0,188.1,105.0,25.0
+Isobutyrylfentanyl,351.4,105.0,188.0,230.2,18.1
+Methoxyacetylfentanyl,353.3,188.0,105.0,79.0,9.3
+Tetrahydrofuranylfentanyl,379.3,105.0,188.0,71.0,13.0
+4-Fluorobutyrfentanyl/para-Fluorobutyrylfentanyl,369.3,188.0,105.0,76.9,20.2
+para-Chloroisobutyrfentanyl,385.3,188.0,105.0,78.9,23.4
+4-Fluoroisobutyrfentanyl,369.3,105.0,188.2,79.0,19.8
+4-Chloro furanyl fentanyl,409.2,105.0,188.0,79.0,22.6
+ortho-Methyl acrylfentanyl,349.3,105.0,188.2,76.9,17.0
+4-Methoxybutyrfentanyl,381.3,105.0,188.0,79.1,21.8
+Despropionyl ortho-methyl fentanyl,295.3,105.0,188.0,77.1,16.5
+Acetyl-α-methylfentanyl,337.3,91.0,202.0,55.1,11.4
+Butyryl-F-fentanyl N-benzyl analog,355.4,91.0,174.0,65.0,17.8
+β-Hydroxyfentanyl,353.0,90.9,204.0,334.9,11.4
+2-Methylfuranyl fentanyl,388.9,188.0,105.0,134.1,20.0
+Despropionyl-2-fluorofentanyl,298.9,104.9,188.1,76.9,14.0
+2-Fluoro butyrfentanyl,369.0,105.0,188.0,76.9,21.1
+ortho-Methyl methoxyacetyl fentanyl,367.1,105.0,188.0,146.0,11.9
+Benzylfuranyl fentanyl,361.0,174.1,90.9,64.8,15.0
+Cyclopentyl fentanyl,377.0,188.0,105.0,68.9,24.2
+Benzoylbenzyl fentanyl,371.0,173.9,90.9,104.9,19.3
+meta-Methyl acetylfentanyl,337.0,188.1,104.9,78.9,13.8
+Isobutyl-F-fentanyl N-benzyl analog,355.0,90.8,174.1,64.9,16.8
+Benzodioxole fentanyl,428.9,149.0,104.9,120.9,22.8
+3-Methylfentanyl,351.0,201.7,105.1,134.1,17.4
+3-Methylthiofentanyl,357.0,111.0,208.1,77.0,15.5
+β-Hydroxy-3-methylfentanyl (A),367.0,199.9,105.1,349.0,13.8
+β-Hydroxy-3-methylfentanyl (B),367.0,199.9,105.1,349.0,14.5
+Despropionyl-3 methyl fentanyl,295.0,105.0,201.9,133.8,16.0
+Brifentanil,421.0,166.9,238.1,68.9,8.8
+4-Phenylfentanyl,413.2,264.2,174.2,,25.1
+N-Methyl carfentanil,305.3,245.2,146.0,53.0,5.2
+Carfentanil,395.2,113.1,335.3,53.0,17.2
+Ocfentanil,371.3,105.0,188.0,79.0,10.3
+"2,2′-Difluoro acetylfentanyl",359.2,206.1,103.1,122.9,12.3
+2-Furanylethyl fentanyl,327.1,94.8,178.0,66.9,9.9
+4′-Methyl acetyl fentanyl,337.2,119.1,202.2,91.0,14.3
+Hexanoyl fentanyl,379.5,105.1,188.0,79.0,25.2
+4′′-Methoxy fentanyl,367.1,135.1,218.0,105.1,16.0
+2-Methoxy furanyl fentanyl,405.2,188.2,105.0,76.9,18.7
+3-Fluoro butyrfentanyl,369.1,105.0,188.0,77.0,18.8
+ortho-Methyl acetylfentanyl,337.2,188.0,105.0,76.9,12.5
+3-Furanyl fentanyl,375.1,188.0,104.9,79.1,18.4
+N-Acetyl norfentanyl,219.0,83.8,54.9,136.2,2.7
+para-Methoxy furanyl fentanyl,405.4,188.1,105.1,134.2,19.5
+Acetyl carfentanil,381.1,321.0,112.9,105.0,12.5
+N-Ethyl carfentanil,319.4,259.2,112.9,203.2,5.9
+"2,2′-Difluorofentanyl",373.4,206.0,123.1,103.1,17.6
+Valerylfentanyl oxalate,365.5,188.1,105.0,134.0,23.5
+"Fentanyl, 4-N-propyl analog",275.4,126.1,54.9,84.0,5.8
+N-Methyl norfentanyl,247.4,98.1,55.1,70.0,4.2
+Norfentanyl,233.3,84.0,55.0,177.1,4.2
+Butyryl norfentanyl,247.3,84.0,55.1,177.1,6.6
+Furanyl norfentanyl,271.3,83.7,94.9,188.1,5.1
+β-Methylfentanyl,351.5,90.9,202.2,119.2,17.7
+Tetramethylcyclopropylfentanyl,405.5,125.2,97.0,,25.6
+Fentanyl propyl acetyl analog,337.4,98.1,202.2,55.0,13.8
+Fentanyl N-oxide,353.5,105.0,146.0,189.3,19.5
+Mirfentanil,377.4,105.2,188.2,78.9,8.8
+Fentanyl isothiocyanate,394.3,245.1,128.1,162.2,25.1
+α-Methylbutyryl fentanyl,365.4,90.9,202.0,119.2,21.1
+N-Propyl carfentanil,333.3,273.2,112.9,301.2,7.4
+N-Isopropyl carfentanil,333.4,273.3,112.9,184.1,7.0
+Norcarfentanil,291.3,142.1,113.0,231.1,5.3
+4-Methoxymethyl fentanyl,381.4,232.2,104.9,349.0,22.5
+Norsufentanil,277.3,96.1,128.2,245.2,7.9
+Thienyl fentanyl,329.1,96.9,53.0,82.1,10.7
+omega-Hydroxy fentanyl,353.2,188.2,105.1,79.2,7.7
+2-Isopropylfuranyl fentanyl,417.2,188.1,105.1,78.9,24.6
+β-Methyl acetyl fentanyl,337.2,91.1,202.1,119.1,12.6
+3-Methylbutyr fentanyl,365.3,105.0,202.0,134.0,22.2
+β-Hydroxythiofentanyl,359.5,341.2,111.0,96.9,9.9
+Isovalerylfentanyl,365.3,105.0,134.0,188.1,22.7
+3-Allyl fentanyl,377.6,228.1,105.0,133.9,23.4
+para-Chlorofentanyl,371.1,105.0,188.0,77.1,20.8
+Trefentanil,467.2,170.0,300.1,99.0,22.9
+Lofentanil,409.2,349.1,104.9,127.1,19.6

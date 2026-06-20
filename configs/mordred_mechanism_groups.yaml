@@ -1,0 +1,209 @@
+# Mordred descriptor mechanism groups for RT-mechanism chemistry-prior selection.
+# 12 groups -> 145 descriptors total (Cyano + Phenyl-hexyl SCC, 4 RT mechanism).
+# Source: chemistry-prior descriptor grouping for the target chromatographic condition.
+# mechanism strength: dominant > auxiliary > partial > cross.
+
+aromaticity_pi_pi:
+  mechanism: pi-pi
+  strength: dominant
+  descriptors:
+    - nAromAtom
+    - nAromBond
+    - naRing
+    - n6aRing
+    - nRing
+    - n6Ring
+    - piPC1
+    - piPC2
+    - piPC3
+    - piPC4
+    - piPC5
+    - piPC6
+    - piPC7
+    - piPC8
+    - piPC9
+    - piPC10
+    - TpiPC10
+
+hydrophobicity_size:
+  mechanism: hydrophobic
+  strength: dominant
+  descriptors:
+    - SLogP
+    - SMR
+    - FilterItLogS
+    - MW
+    - AMW
+    - Vabc
+    - VMcGowan
+    - TASA
+    - RASA
+    - LabuteASA
+    - nRot
+    - RotRatio
+    - Kier1
+    - Kier2
+    - Kier3
+    - FCSP3
+    - C2SP3
+    - C3SP3
+    - GRAV
+    - nBonds
+    - nBondsM
+    - nAtom
+    - nHeavyAtom
+    - nC
+
+polarity_dipole:
+  mechanism: dipole-dipole
+  strength: auxiliary
+  descriptors:
+    - TopoPSA(NO)
+    - TopoPSA
+    - apol
+    - bpol
+    - TPSA
+    - RPSA
+    - DPSA1
+    - DPSA2
+    - DPSA3
+    - FNSA1
+    - FPSA1
+    - WNSA1
+    - WPSA1
+    - RNCG
+    - RPCG
+    - nO
+    - nHetero
+
+h_bonding:
+  mechanism: h-bonding
+  strength: partial
+  descriptors:
+    - nHBAcc
+    - nHBDon
+    - SssNH
+    - SsssN
+
+electronic_vsa:
+  mechanism: pi-pi+dipole-dipole
+  strength: cross
+  descriptors:
+    - PEOE_VSA6
+    - PEOE_VSA8
+    - PEOE_VSA10
+    - SMR_VSA5
+    - SMR_VSA7
+    - SMR_VSA9
+    - SlogP_VSA2
+    - SlogP_VSA5
+    - SlogP_VSA6
+    - SlogP_VSA11
+    - EState_VSA7
+    - VSA_EState6
+    - VSA_EState7
+    - VSA_EState8
+    - VSA_EState9
+
+electronic_estate:
+  mechanism: pi-pi+hydrophobic
+  strength: cross
+  descriptors:
+    - NaaCH
+    - NaasC
+    - SaaCH
+    - SaasC
+    - NsCH3
+    - SsCH3
+    - NssCH2
+    - SssCH2
+    - NdO
+    - SdO
+    - C2SP2
+    - C1SP2
+
+electronic_eta:
+  mechanism: pi-pi+dipole-dipole
+  strength: cross
+  descriptors:
+    - ETA_beta
+    - ETA_beta_ns
+    - AETA_beta_ns
+    - ETA_dBeta
+    - AETA_dBeta
+    - ETA_epsilon_1
+    - ETA_eta_F
+    - ETA_psi_1
+    - ETA_shape_p
+
+electronic_autocorrelation:
+  mechanism: pi-pi+dipole-dipole
+  strength: cross
+  descriptors:
+    - AATS1p
+    - AATS2p
+    - AATS3p
+    - AATS1se
+    - AATS2se
+    - AATS3se
+    - AATS1are
+    - AATS2are
+    - AATS3are
+    - MATS1p
+    - MATS1se
+    - MATS1are
+    - GATS1p
+    - GATS1se
+    - GATS1are
+    - MATS2p
+    - MATS2se
+    - MATS2are
+    - GATS2p
+    - GATS2se
+    - GATS2are
+
+electronic_morse:
+  mechanism: pi-pi+3D-shape
+  strength: cross
+  descriptors:
+    - Mor01
+    - Mor02
+    - Mor03
+    - Mor06
+    - Mor01p
+    - Mor02p
+    - Mor03p
+    - Mor06p
+    - Mor01se
+    - Mor02se
+    - Mor03se
+    - Mor06se
+
+topological_connectivity:
+  mechanism: scaffold
+  strength: cross
+  descriptors:
+    - Xp-0d
+    - Xp-1d
+    - Xp-2d
+    - IC1
+    - AMID_C
+    - BalabanJ
+    - BertzCT
+
+substituent_distance_edge:
+  mechanism: hydrophobic+dipole-dipole
+  strength: cross
+  descriptors:
+    - nF
+    - nCl
+    - MDEC-12
+    - MDEC-22
+    - MDEC-23
+
+bcut_extremal:
+  mechanism: pi-pi+hydrophobic
+  strength: cross
+  descriptors:
+    - BCUTp-1h
+    - BCUTse-1h

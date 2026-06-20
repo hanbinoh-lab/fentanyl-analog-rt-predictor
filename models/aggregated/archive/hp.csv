@@ -1,0 +1,6 @@
+ssot_num,rep_id,algo_id,candidate,final_hp_json
+1,mordred,ridge,mordred__ridge,"{""est__alpha"": 10.985411419875572}"
+2,mordred,rf,mordred__rf,"{""est__max_depth"": 8, ""est__max_features"": 0.3, ""est__min_samples_leaf"": 2, ""est__n_estimators"": 500}"
+3,mordred,xgb,mordred__xgb,"{""est__colsample_bytree"": 0.5, ""est__learning_rate"": 0.05, ""est__max_depth"": 2, ""est__n_estimators"": 200}"
+4,mordred,gp_rbf,mordred__gp_rbf,"{""est__alpha"": 0.029763514416313176}"
+5,mordred,mlp,mordred__mlp,"{""est__alpha"": 10.0, ""est__hidden_layer_sizes"": [16]}"

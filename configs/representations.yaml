@@ -1,0 +1,40 @@
+# Representation specification - machine-readable source of truth.
+# Mordred 2D+3D descriptors with a four-stage curation pipeline (1826 -> 75).
+
+mordred:
+  library: mordredcommunity
+  algorithm: Mordred 2D+3D
+  params:
+    ignore_3D: false
+  conformer:
+    method: ETKDGv3 + MMFF94s
+    n_conformers: 50
+    seed: 42
+    select: lowest-E
+  raw_dim: 1826
+  preprocessing:
+    type: multi_stage
+    stages:
+      - stage: 0
+        file: 00_compute.py
+        operation: Mordred descriptor calculation
+        output_dim: 1826
+        output_path: data/features/mordred/mordred_preprocessing/00_compute.csv
+      - stage: 1
+        file: 01_filter.py
+        operation: "drop columns with any NaN, then drop constant columns"
+        output_dim: 1421
+        output_path: data/features/mordred/mordred_preprocessing/01_filter.csv
+      - stage: 2
+        file: 02_select.py
+        operation: "RT-mechanism chemistry-prior selection (pi-pi / hydrophobic / dipole-dipole / H-bonding)"
+        output_dim: 144
+        output_path: data/features/mordred/mordred_preprocessing/02_select.csv
+      - stage: 3
+        file: 03_reduce.py
+        operation: "hierarchical clustering (average linkage) on 1-|r|, |r|>=0.90, mechanism-priority representative pick"
+        output_dim: 75
+        output_path: data/features/mordred/mordred.csv
+  final_dim: 75
+  output_path: data/features/mordred/mordred.csv
+  column_prefix: null

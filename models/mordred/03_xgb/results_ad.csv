@@ -1,0 +1,95 @@
+compound,compound_idx,knn_distance_mean,in_chemical_domain
+Benzylfentanyl,0,3.406363019807113,True
+Fentanyl propyl analog,1,3.8321410756063927,True
+α-Methylfentanyl,2,3.446510700142285,True
+Thiofentanyl,3,5.017864695739708,True
+α-Methylthiofentanyl,4,5.17743621392146,True
+2-Fluorofentanyl/ortho-Fluorofentanyl,5,3.009517034545342,True
+3ʹ-Fluorofentanyl,6,3.123381063495061,True
+4-Methoxyfentanyl,7,4.903892694316572,True
+para-Fluorofentanyl,8,2.7218097630052327,True
+Hydrocinnamoylfentanyl/3-Phenylpropanylfentanyl,9,7.635903556350665,True
+Acetylfentanyl,10,3.4981910874984776,True
+Acrylfentanyl,11,4.872398468981583,True
+Cyclopropylfentanyl,12,5.799866792564208,True
+Benzoylfentanyl,13,5.698572694302661,True
+Butyrfentanyl,14,3.5627648241994585,True
+2-Thiofuranylfentanyl,15,7.267661296583403,True
+Furanylfentanyl,16,4.7538699480273525,True
+Cyclohexylfentanyl,17,7.266044249657185,True
+Isobutyrylfentanyl,18,2.9679782224980533,True
+Methoxyacetylfentanyl,19,5.953696971331925,True
+Tetrahydrofuranylfentanyl,20,6.5827720905373095,True
+4-Fluorobutyrfentanyl/para-Fluorobutyrylfentanyl,21,2.825586261137913,True
+para-Chloroisobutyrfentanyl,22,7.8432337197490245,True
+4-Fluoroisobutyrfentanyl,23,4.071281774422851,True
+4-Chloro furanyl fentanyl,24,8.07016354971944,True
+ortho-Methyl acrylfentanyl,25,4.6720635711146485,True
+4-Methoxybutyrfentanyl,26,6.040679729232951,True
+Despropionyl ortho-methyl fentanyl,27,9.596797478997669,True
+Acetyl-α-methylfentanyl,28,3.3216507415246483,True
+Butyryl-F-fentanyl N-benzyl analog,29,3.028266511589829,True
+β-Hydroxyfentanyl,30,5.539060124530075,True
+2-Methylfuranyl fentanyl,31,5.931843866899905,True
+Despropionyl-2-fluorofentanyl,32,9.748986109088571,True
+2-Fluoro butyrfentanyl,33,2.947043967249536,True
+ortho-Methyl methoxyacetyl fentanyl,34,5.769370681009351,True
+Benzylfuranyl fentanyl,35,5.2919559169163195,True
+Cyclopentyl fentanyl,36,6.128503461275914,True
+Benzoylbenzyl fentanyl,37,6.108759827463838,True
+meta-Methyl acetylfentanyl,38,3.3947375546279317,True
+Isobutyl-F-fentanyl N-benzyl analog,39,5.078531652579191,True
+Benzodioxole fentanyl,40,9.9950711567543,False
+3-Methylfentanyl,41,2.9739703222599005,True
+3-Methylthiofentanyl,42,5.159721934598491,True
+β-Hydroxy-3-methylfentanyl (A),43,5.553856672912491,True
+β-Hydroxy-3-methylfentanyl (B),44,5.437984091663189,True
+Despropionyl-3 methyl fentanyl,45,9.722932466970352,True
+Brifentanil,46,14.402774267309027,False
+4-Phenylfentanyl,47,7.489573789773384,True
+N-Methyl carfentanil,48,7.296616043956083,True
+Carfentanil,49,6.396476507814599,True
+Ocfentanil,50,6.9644544673154964,True
+"2,2′-Difluoro acetylfentanyl",51,5.896771821949069,True
+2-Furanylethyl fentanyl,52,7.286076383836431,True
+4′-Methyl acetyl fentanyl,53,3.252405046340523,True
+Hexanoyl fentanyl,54,6.1876726669770985,True
+4′′-Methoxy fentanyl,55,5.022561550519187,True
+2-Methoxy furanyl fentanyl,56,6.3769983537092365,True
+3-Fluoro butyrfentanyl,57,2.6083959560181493,True
+ortho-Methyl acetylfentanyl,58,4.096580434718122,True
+3-Furanyl fentanyl,59,5.629137146016688,True
+N-Acetyl norfentanyl,60,7.829824431394885,True
+para-Methoxy furanyl fentanyl,61,6.3080888808191276,True
+Acetyl carfentanil,62,6.77117787560354,True
+N-Ethyl carfentanil,63,5.807071721249379,True
+"2,2′-Difluorofentanyl",64,4.844130703085735,True
+Valerylfentanyl oxalate,65,4.216662197053466,True
+"Fentanyl, 4-N-propyl analog",66,9.01020964620001,True
+N-Methyl norfentanyl,67,8.812571664823562,True
+Norfentanyl,68,6.713092743651029,True
+Butyryl norfentanyl,69,7.549813667130894,True
+Furanyl norfentanyl,70,9.962364730776805,False
+β-Methylfentanyl,71,2.956261294207774,True
+Tetramethylcyclopropylfentanyl,72,8.272353601868875,True
+Fentanyl propyl acetyl analog,73,4.029417344130829,True
+Fentanyl N-oxide,74,8.819688740154167,True
+Mirfentanil,75,9.978216113855868,False
+Fentanyl isothiocyanate,76,7.6604847089877595,True
+α-Methylbutyryl fentanyl,77,3.724565015239084,True
+N-Propyl carfentanil,78,6.6844612684875795,True
+N-Isopropyl carfentanil,79,6.814378996410861,True
+Norcarfentanil,80,8.657005247479983,True
+4-Methoxymethyl fentanyl,81,6.671711158042537,True
+Norsufentanil,82,8.846028529982274,True
+Thienyl fentanyl,83,5.481711047937325,True
+omega-Hydroxy fentanyl,84,7.057019167164954,True
+2-Isopropylfuranyl fentanyl,85,8.453213504237818,True
+β-Methyl acetyl fentanyl,86,3.3924404422979046,True
+3-Methylbutyr fentanyl,87,3.2352409633278456,True
+β-Hydroxythiofentanyl,88,7.667560575378507,True
+Isovalerylfentanyl,89,3.454645586152855,True
+3-Allyl fentanyl,90,5.223097942480785,True
+para-Chlorofentanyl,91,7.265944606910077,True
+Trefentanil,92,12.353934465431195,False
+Lofentanil,93,7.020222259014079,True

@@ -1,0 +1,27 @@
+{
+  "rep_id": "mordred",
+  "algo_id": "rf",
+  "ssot_num": 2,
+  "python": "3.11.15",
+  "final_hp": {
+    "est__max_depth": 8,
+    "est__max_features": 0.3,
+    "est__min_samples_leaf": 2,
+    "est__n_estimators": 500
+  },
+  "main_table": {
+    "cv_rmse_mean": 1.9913758734281573,
+    "cv_rmse_sd": 0.061237280414160516,
+    "cv_r2_mean": 0.8871094924731041,
+    "cv_r2_sd": 0.007050129301588224,
+    "cv_mae_mean": 1.548242023987796,
+    "cv_mae_sd": 0.04583521322909787,
+    "delta_train_cv_r2": 0.09022792303745941,
+    "q2_loo": 0.8946612803760868,
+    "p_y_scram_reported": "< 0.0099"
+  },
+  "si_table": {
+    "loocv_rmse": 1.9244351289047368,
+    "loocv_mae": 1.5070811948426859
+  }
+}

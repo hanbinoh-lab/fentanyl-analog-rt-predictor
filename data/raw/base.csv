@@ -1,0 +1,95 @@
+compound,smiles,retention_time_min
+Benzylfentanyl,CCC(=O)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1,12.4
+Fentanyl propyl analog,CCC(=O)N(c1ccccc1)C1CCN(CCCc2ccccc2)CC1,19.1
+α-Methylfentanyl,CCC(=O)N(c1ccccc1)C1CCN(C(C)Cc2ccccc2)CC1,16.1
+Thiofentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2cccs2)CC1,12.4
+α-Methylthiofentanyl,CCC(=O)N(c1ccccc1)C1CCN(C(C)Cc2cccs2)CC1,14.3
+2-Fluorofentanyl/ortho-Fluorofentanyl,CCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,15.9
+3ʹ-Fluorofentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2cccc(F)c2)CC1,15.2
+4-Methoxyfentanyl,CCC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1,16.9
+para-Fluorofentanyl,CCC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,14.8
+Hydrocinnamoylfentanyl/3-Phenylpropanylfentanyl,O=C(CCc1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,25.2
+Acetylfentanyl,CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,9.8
+Acrylfentanyl,C=CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,13.5
+Cyclopropylfentanyl,O=C(C1CC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,17.6
+Benzoylfentanyl,O=C(c1ccccc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,21.3
+Butyrfentanyl,CCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,19.1
+2-Thiofuranylfentanyl,O=C(c1cccs1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,22.6
+Furanylfentanyl,O=C(c1ccco1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,16.8
+Cyclohexylfentanyl,O=C(C1CCCCC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,25.0
+Isobutyrylfentanyl,CC(C)C(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,18.1
+Methoxyacetylfentanyl,COCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,9.3
+Tetrahydrofuranylfentanyl,O=C(C1CCCO1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,13.0
+4-Fluorobutyrfentanyl/para-Fluorobutyrylfentanyl,CCCC(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,20.2
+para-Chloroisobutyrfentanyl,CC(C)C(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,23.4
+4-Fluoroisobutyrfentanyl,CC(C)C(=O)N(c1ccc(F)cc1)C1CCN(CCc2ccccc2)CC1,19.8
+4-Chloro furanyl fentanyl,O=C(c1ccco1)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,22.6
+ortho-Methyl acrylfentanyl,C=CC(=O)N(c1ccccc1C)C1CCN(CCc2ccccc2)CC1,17.0
+4-Methoxybutyrfentanyl,CCCC(=O)N(c1ccc(OC)cc1)C1CCN(CCc2ccccc2)CC1,21.8
+Despropionyl ortho-methyl fentanyl,Cc1ccccc1NC1CCN(CCc2ccccc2)CC1,16.5
+Acetyl-α-methylfentanyl,CC(=O)N(c1ccccc1)C1CCN(C(C)Cc2ccccc2)CC1,11.4
+Butyryl-F-fentanyl N-benzyl analog,CCCC(=O)N(c1ccc(F)cc1)C1CCN(Cc2ccccc2)CC1,17.8
+β-Hydroxyfentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC(O)c2ccccc2)CC1,11.4
+2-Methylfuranyl fentanyl,Cc1ccc(C(=O)N(c2ccccc2)C2CCN(CCc3ccccc3)CC2)o1,20.0
+Despropionyl-2-fluorofentanyl,Fc1ccccc1NC1CCN(CCc2ccccc2)CC1,14.0
+2-Fluoro butyrfentanyl,CCCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,21.1
+ortho-Methyl methoxyacetyl fentanyl,COCC(=O)N(c1ccccc1C)C1CCN(CCc2ccccc2)CC1,11.9
+Benzylfuranyl fentanyl,O=C(c1ccco1)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1,15.0
+Cyclopentyl fentanyl,O=C(C1CCCC1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,24.2
+Benzoylbenzyl fentanyl,O=C(c1ccccc1)N(c1ccccc1)C1CCN(Cc2ccccc2)CC1,19.3
+meta-Methyl acetylfentanyl,CC(=O)N(c1cccc(C)c1)C1CCN(CCc2ccccc2)CC1,13.8
+Isobutyl-F-fentanyl N-benzyl analog,CC(C)C(=O)N(c1ccc(F)cc1)C1CCN(Cc2ccccc2)CC1,16.8
+Benzodioxole fentanyl,O=C(c1ccc2c(c1)OCO2)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,22.8
+3-Methylfentanyl,CCC(=O)N(c1ccccc1)[C@@H]1CCN(CCc2ccccc2)C[C@@H]1C,17.4
+3-Methylthiofentanyl,CCC(=O)N(c1ccccc1)[C@@H]1CCN(CCc2cccs2)C[C@@H]1C,15.5
+β-Hydroxy-3-methylfentanyl (A),CCC(=O)N(c1ccccc1)[C@@H]1CCN(C[C@H](O)c2ccccc2)C[C@H]1C,13.8
+β-Hydroxy-3-methylfentanyl (B),CCC(=O)N(c1ccccc1)[C@@H]1CCN(C[C@H](O)c2ccccc2)C[C@@H]1C,14.5
+Despropionyl-3 methyl fentanyl,C[C@H]1CN(CCc2ccccc2)CC[C@@H]1Nc1ccccc1,16.0
+Brifentanil,CCn1nnn(CCN2CC[C@H](N(C(=O)COC)c3ccccc3F)[C@H](C)C2)c1=O,8.8
+4-Phenylfentanyl,CCC(=O)N(c1ccccc1)C1(c2ccccc2)CCN(CCc2ccccc2)CC1,25.1
+N-Methyl carfentanil,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(C)CC1,5.2
+Carfentanil,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CCc2ccccc2)CC1,17.2
+Ocfentanil,COCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2)CC1,10.3
+"2,2′-Difluoro acetylfentanyl",CC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2F)CC1,12.3
+2-Furanylethyl fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccco2)CC1,9.9
+4′-Methyl acetyl fentanyl,CC(=O)N(c1ccccc1)C1CCN(CCc2ccc(C)cc2)CC1,14.3
+Hexanoyl fentanyl,CCCCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,25.2
+4′′-Methoxy fentanyl,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccc(OC)cc2)CC1,16.0
+2-Methoxy furanyl fentanyl,COc1ccccc1N(C(=O)c1ccco1)C1CCN(CCc2ccccc2)CC1,18.7
+3-Fluoro butyrfentanyl,CCCC(=O)N(c1cccc(F)c1)C1CCN(CCc2ccccc2)CC1,18.8
+ortho-Methyl acetylfentanyl,CC(=O)N(c1ccccc1C)C1CCN(CCc2ccccc2)CC1,12.5
+3-Furanyl fentanyl,O=C(c1ccoc1)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,18.4
+N-Acetyl norfentanyl,CC(=O)N(c1ccccc1)C1CCNCC1,2.7
+para-Methoxy furanyl fentanyl,COc1ccc(N(C(=O)c2ccco2)C2CCN(CCc3ccccc3)CC2)cc1,19.5
+Acetyl carfentanil,COC(=O)C1(N(C(C)=O)c2ccccc2)CCN(CCc2ccccc2)CC1,12.5
+N-Ethyl carfentanil,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(CC)CC1,5.9
+"2,2′-Difluorofentanyl",CCC(=O)N(c1ccccc1F)C1CCN(CCc2ccccc2F)CC1,17.6
+Valerylfentanyl oxalate,CCCCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,23.5
+"Fentanyl, 4-N-propyl analog",CCCN1CCC(N(C(=O)CC)c2ccccc2)CC1,5.8
+N-Methyl norfentanyl,CCC(=O)N(c1ccccc1)C1CCN(C)CC1,4.2
+Norfentanyl,CCC(=O)N(c1ccccc1)C1CCNCC1,4.2
+Butyryl norfentanyl,CCCC(=O)N(c1ccccc1)C1CCNCC1,6.6
+Furanyl norfentanyl,O=C(c1ccco1)N(c1ccccc1)C1CCNCC1,5.1
+β-Methylfentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC(C)c2ccccc2)CC1,17.7
+Tetramethylcyclopropylfentanyl,CC1(C)C(C(=O)N(c2ccccc2)C2CCN(CCc3ccccc3)CC2)C1(C)C,25.6
+Fentanyl propyl acetyl analog,CC(=O)N(c1ccccc1)C1CCN(CCCc2ccccc2)CC1,13.8
+Fentanyl N-oxide,CCC(=O)N(c1ccccc1)C1CC[N+]([O-])(CCc2ccccc2)CC1,19.5
+Mirfentanil,O=C(c1ccco1)N(c1cnccn1)C1CCN(CCc2ccccc2)CC1,8.8
+Fentanyl isothiocyanate,CCC(=O)N(c1ccccc1)C1CCN(CCc2ccc(N=C=S)cc2)CC1,25.1
+α-Methylbutyryl fentanyl,CCCC(=O)N(c1ccccc1)C1CCN(C(C)Cc2ccccc2)CC1,21.1
+N-Propyl carfentanil,CCCN1CCC(C(=O)OC)(N(C(=O)CC)c2ccccc2)CC1,7.4
+N-Isopropyl carfentanil,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCN(C(C)C)CC1,7.0
+Norcarfentanil,CCC(=O)N(c1ccccc1)C1(C(=O)OC)CCNCC1,5.3
+4-Methoxymethyl fentanyl,CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2ccccc2)CC1,22.5
+Norsufentanil,CCC(=O)N(c1ccccc1)C1(COC)CCNCC1,7.9
+Thienyl fentanyl,CCC(=O)N(c1ccccc1)C1CCN(Cc2cccs2)CC1,10.7
+omega-Hydroxy fentanyl,O=C(CCO)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,7.7
+2-Isopropylfuranyl fentanyl,CC(C)c1ccccc1N(C(=O)c1ccco1)C1CCN(CCc2ccccc2)CC1,24.6
+β-Methyl acetyl fentanyl,CC(=O)N(c1ccccc1)C1CCN(CC(C)c2ccccc2)CC1,12.6
+3-Methylbutyr fentanyl,CCCC(=O)N(c1ccccc1)[C@@H]1CCN(CCc2ccccc2)C[C@@H]1C,22.2
+β-Hydroxythiofentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC(O)c2cccs2)CC1,9.9
+Isovalerylfentanyl,CC(C)CC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1,22.7
+3-Allyl fentanyl,C=CC[C@H]1CN(CCc2ccccc2)CC[C@H]1N(C(=O)CC)c1ccccc1,23.4
+para-Chlorofentanyl,CCC(=O)N(c1ccc(Cl)cc1)C1CCN(CCc2ccccc2)CC1,20.8
+Trefentanil,CCC(=O)N(c1ccccc1F)C1(c2ccccc2)CCN(CCn2nnn(CC)c2=O)CC1,22.9
+Lofentanil,CCC(=O)N(c1ccccc1)[C@]1(C(=O)OC)CCN(CCc2ccccc2)C[C@@H]1C,19.6

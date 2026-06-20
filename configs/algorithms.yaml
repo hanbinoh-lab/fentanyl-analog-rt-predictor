@@ -1,0 +1,7 @@
+# Algorithm run mapping for the Mordred descriptor representation.
+# Keys are run numbers 1-5; models_entry is the per-algorithm output label.
+1: {rep_id: mordred, algo_id: ridge,  models_entry: "01_ridge"}
+2: {rep_id: mordred, algo_id: rf,     models_entry: "02_rf"}
+3: {rep_id: mordred, algo_id: xgb,    models_entry: "03_xgb"}
+4: {rep_id: mordred, algo_id: gp_rbf, models_entry: "04_gp_rbf"}
+5: {rep_id: mordred, algo_id: mlp,    models_entry: "05_mlp"}

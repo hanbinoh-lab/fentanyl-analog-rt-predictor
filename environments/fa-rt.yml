@@ -1,0 +1,33 @@
+name: fa-rt
+channels:
+  - conda-forge
+variables:
+  # Pin BLAS threading to a single thread for deterministic, reproducible results.
+  OMP_NUM_THREADS: "1"
+  MKL_NUM_THREADS: "1"
+  OPENBLAS_NUM_THREADS: "1"
+dependencies:
+  # core
+  - python=3.11
+  - libblas=*=*openblas          # OpenBLAS is stable on Windows; MKL can segfault in BLAS-heavy ops
+
+  # data + numerics
+  - numpy=1.26
+  - pandas=2.2
+  - scipy=1.11
+
+  # machine learning
+  - scikit-learn=1.3
+  - xgboost=1.7
+  - joblib=1.3
+
+  # chemistry
+  - rdkit=2023.09
+
+  # visualization
+  - matplotlib=3.8
+  - seaborn=0.13
+
+  - pip
+  - pip:
+    - mordredcommunity==2.0.7     # Mordred 2D+3D molecular descriptors
